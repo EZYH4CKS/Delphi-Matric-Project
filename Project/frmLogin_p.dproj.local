@@ -1,0 +1,77 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899/12/30 00:00:00.000.050,E:\IT12\PAT\Phase 2\Unit1.pas=E:\IT12\PAT\Phase 2\dm_u.pas</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.504,=E:\IT12\PAT\Phase 2\Unit1.pas</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.853,=C:\Users\George\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.139,=C:\Users\George\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.471,=E:\IT12\PAT\Phase 2\Unit1.pas</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.243,E:\IT12\PAT\Phase 2\Unit1.pas=E:\IT12\PAT\Phase 2\frmDynamic_u.pas</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.977,E:\IT12\PAT\Phase 2\Unit1.pas=E:\IT12\PAT\Phase 2\frmProperties_u.pas</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.499,=E:\IT12\PAT\Phase 2\Unit1.pas</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.379,=E:\IT12\PAT\Phase 2\Unit1.pas</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.139,E:\IT12\PAT\Phase 2\frmMenu_u.dfm=E:\IT12\PAT\Phase 2\Unit1.dfm</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.871,E:\IT12\PAT\Phase 2\frmStats_u.dfm=E:\IT12\PAT\Phase 2\Unit1.dfm</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.139,E:\IT12\PAT\Phase 2\frmMenu_u.pas=E:\IT12\PAT\Phase 2\Unit1.pas</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.415,E:\IT12\PAT\Phase 2\frmAgent_u.pas=E:\IT12\PAT\Phase 2\Unit1.pas</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.523,E:\IT12\PAT\Phase 2\frmLogin_u.dfm=C:\Users\George\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.871,E:\IT12\PAT\Phase 2\frmStats_u.pas=E:\IT12\PAT\Phase 2\Unit1.pas</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.415,E:\IT12\PAT\Phase 2\frmAgent_u.dfm=E:\IT12\PAT\Phase 2\Unit1.dfm</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.355,E:\IT12\PAT\Phase 2\frmClients_u.dfm=E:\IT12\PAT\Phase 2\Unit1.dfm</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.137,E:\IT12\PAT\Phase 2\frmAgents_u.pas=E:\IT12\PAT\Phase 2\Unit1.pas</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.523,E:\IT12\PAT\Phase 2\frmLogin_u.pas=C:\Users\George\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.441,E:\IT12\PAT\Phase 2\Unit1.pas=E:\IT12\PAT\Phase 2\frmClient_u.pas</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.977,E:\IT12\PAT\Phase 2\Unit1.dfm=E:\IT12\PAT\Phase 2\frmProperties_u.dfm</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.941,E:\IT12\PAT\Phase 2\frmDynamic_u.pas=</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.732,E:\IT12\PAT\Phase 2\frmLogin_p.dproj=C:\Users\George\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.441,E:\IT12\PAT\Phase 2\Unit1.dfm=E:\IT12\PAT\Phase 2\frmClient_u.dfm</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.137,E:\IT12\PAT\Phase 2\frmAgents_u.dfm=E:\IT12\PAT\Phase 2\Unit1.dfm</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.243,E:\IT12\PAT\Phase 2\Unit1.dfm=E:\IT12\PAT\Phase 2\frmDynamic_u.dfm</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.050,E:\IT12\PAT\Phase 2\Unit1.dfm=E:\IT12\PAT\Phase 2\dm_u.dfm</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.302,E:\IT12\PAT\Phase 2\frmLogin_p.dproj=E:\IT12\PAT\Phase 2\frmLogin_p.dproj</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.549,=E:\IT12\PAT\Phase 2\Unit1.pas</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.254,=E:\IT12\PAT\Phase 2\Unit1.pas</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.027,=E:\IT12\PAT\Phase 2\Unit1.pas</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.708,=E:\IT12\PAT\Phase 2\Unit1.pas</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.381,=E:\IT12\PAT\Phase 2\Unit1.pas</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.355,E:\IT12\PAT\Phase 2\frmClients_u.pas=E:\IT12\PAT\Phase 2\Unit1.pas</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.333,=E:\IT12\PAT\Phase 2\Unit1.pas</Transaction>
+    <Transaction>2024/08/05 15:20:23.000.636,=E:\IT12\PAT\Phase 2\personal\3\Unit1.pas</Transaction>
+    <Transaction>2024/08/05 15:20:54.000.285,E:\IT12\PAT\Phase 2\personal\3\encryption_u.dfm=E:\IT12\PAT\Phase 2\personal\3\Unit1.dfm</Transaction>
+    <Transaction>2024/08/05 15:20:54.000.285,E:\IT12\PAT\Phase 2\personal\3\encryption_u.pas=E:\IT12\PAT\Phase 2\personal\3\Unit1.pas</Transaction>
+    <Transaction>2024/08/06 07:39:00.000.202,E:\IT12\PAT\Phase 2\personal\3\test_encryption_u.pas=E:\IT12\PAT\Phase 2\personal\3\encryption_u.pas</Transaction>
+    <Transaction>2024/08/06 07:39:00.000.202,E:\IT12\PAT\Phase 2\personal\3\test_encryption_u.dfm=E:\IT12\PAT\Phase 2\personal\3\encryption_u.dfm</Transaction>
+    <Transaction>2024/08/06 07:39:31.000.124,=E:\IT12\PAT\Phase 2\personal\3\Unit1.pas</Transaction>
+    <Transaction>2024/08/06 07:40:04.000.944,E:\IT12\PAT\Phase 2\personal\3\security_u.pas=E:\IT12\PAT\Phase 2\personal\3\Unit1.pas</Transaction>
+    <Transaction>2024/08/06 07:40:04.000.944,E:\IT12\PAT\Phase 2\personal\3\security_u.dfm=E:\IT12\PAT\Phase 2\personal\3\Unit1.dfm</Transaction>
+    <Transaction>2024/08/06 08:24:23.000.183,E:\IT12\PAT\Phase 2\personal\3\test_encryption_u.pas=</Transaction>
+    <Transaction>2024/08/09 12:57:54.000.986,=E:\IT12\PAT\Phase 2\personal\6\Unit1.pas</Transaction>
+    <Transaction>2024/08/09 18:42:08.000.602,=E:\IT12\PAT\Phase 2\personal\6\Unit1.pas</Transaction>
+    <Transaction>2024/08/09 18:48:36.000.450,E:\IT12\PAT\Phase 2\personal\6\frmAgents_u.pas=</Transaction>
+    <Transaction>2024/08/09 18:50:04.000.166,=E:\IT12\PAT\Phase 2\personal\6\Unit1.pas</Transaction>
+    <Transaction>2024/08/09 18:50:13.000.861,E:\IT12\PAT\Phase 2\personal\6\frmAgents_u.pas=E:\IT12\PAT\Phase 2\personal\6\Unit1.pas</Transaction>
+    <Transaction>2024/08/09 18:50:13.000.861,E:\IT12\PAT\Phase 2\personal\6\frmAgents_u.dfm=E:\IT12\PAT\Phase 2\personal\6\Unit1.dfm</Transaction>
+    <Transaction>2024/08/14 23:18:03.000.254,=E:\IT12\PAT\Phase 2\personal\8\Unit1.pas</Transaction>
+    <Transaction>2024/08/14 23:18:18.000.998,E:\IT12\PAT\Phase 2\personal\8\Unit1.pas=E:\IT12\PAT\Phase 2\personal\8\clsProperty.pas</Transaction>
+    <Transaction>2024/08/15 21:49:34.000.374,E:\IT12\PAT\Phase 2\personal\10\security_u.pas=</Transaction>
+    <Transaction>2024/08/18 12:20:11.000.469,E:\IT12\PAT\Phase 2\personal\11\frmAgent_u.pas=</Transaction>
+    <Transaction>2024/08/18 12:20:14.000.802,E:\IT12\PAT\Phase 2\personal\11\frmClient_u.pas=</Transaction>
+  </Transactions>
+	<ProjectSortOrder AutoSort="0" SortType="0">
+    <File Path="dm_u.pas"/>
+    <File Path="dm_u.dfm"/>
+    <File Path="frmAgents_u.pas"/>
+    <File Path="frmAgents_u.dfm"/>
+    <File Path="frmClients_u.pas"/>
+    <File Path="frmClients_u.dfm"/>
+    <File Path="frmLogin_u.pas"/>
+    <File Path="frmLogin_u.dfm"/>
+    <File Path="frmMenu_u.pas"/>
+    <File Path="frmMenu_u.dfm"/>
+    <File Path="frmProperties_u.pas"/>
+    <File Path="frmProperties_u.dfm"/>
+    <File Path="frmStats_u.pas"/>
+    <File Path="frmStats_u.dfm"/>
+    <File Path="clsProperty.pas"/>
+  </ProjectSortOrder>
+</BorlandProject>
